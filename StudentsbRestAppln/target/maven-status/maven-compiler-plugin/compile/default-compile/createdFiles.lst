@@ -1,0 +1,6 @@
+com\ani\restapp\serviceimpl\StudentServiceImpl.class
+com\ani\restapp\controller\StudentController.class
+com\ani\restapp\repository\StudentRepo.class
+com\ani\restapp\service\StudentService.class
+com\ani\restapp\StudentsbRestApplnApplication.class
+com\ani\restapp\model\Student.class

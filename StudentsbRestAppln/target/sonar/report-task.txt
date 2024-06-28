@@ -1,0 +1,6 @@
+projectKey=student
+serverUrl=http://localhost:9000
+serverVersion=10.4.0.87286
+dashboardUrl=http://localhost:9000/dashboard?id=student
+ceTaskId=36136452-88dd-4518-9fcd-a5f8f2d40efa
+ceTaskUrl=http://localhost:9000/api/ce/task?id=36136452-88dd-4518-9fcd-a5f8f2d40efa
